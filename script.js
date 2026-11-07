@@ -1,6 +1,6 @@
 // PERSONALIZE THESE VALUES:
-const recipientName = "Someone Special";
-const senderName = "Your Well-Wisher";
+const recipientName = "My Special And Loveliest Richa";
+const senderName = "Your Well-Wisher and Pure hearted Samarth";
 document.getElementById("recipient").textContent=recipientName;
 document.getElementById("recipient2").textContent=recipientName;
 document.getElementById("sender").textContent=senderName;
